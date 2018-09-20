@@ -15,7 +15,7 @@ array.first
 end
 
 def use
-  
+
 end
 
 
